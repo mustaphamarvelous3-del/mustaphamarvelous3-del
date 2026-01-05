@@ -23,9 +23,6 @@ I help businesses and visionaries build scalable technology, upgrade legacy syst
 <a href="https://www.google.com/search?q=https://wa.me/2349131432343">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3DD4AF37" />
 </a>
-<a href="https://github.com/mustaphamarvelous3-del">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Marvillyon_Tech-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3DD4AF37" />
-</a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -35,7 +32,7 @@ I help businesses and visionaries build scalable technology, upgrade legacy syst
 </div>
 </div>
 
-About Me
+🦁 About Me
 
 I am Mustapha Marvelous Oluwaferanmi, a Full-Stack Software Engineer and the Founder of Marvillyon Group. Based in Lagos, I specialize in architecting high-performance web solutions that solve complex business problems.
 
@@ -43,21 +40,34 @@ My journey has evolved from fashion design (DeTrend) to advanced software engine
 
 "Innovation is not just about building something new; it's about making the old obsolete."
 
-Core Services
+🛠 Core Services
 
-Custom Architecture & Development Building robust, scalable websites and web applications from scratch. Whether it's a corporate platform, an e-commerce hub, or a complex SaaS product, I engineer the foundation for success using modern stacks (React, Node.js, Python).
+🔹 Custom Architecture & Development
 
-Legacy System Modernization Updating and upgrading old, outdated websites. I take slow, static, or broken sites and transform them into fast, mobile-responsive, and modern platforms that meet 2026 standards.
+Building robust, scalable websites and web applications from scratch. Whether it's a corporate platform, an e-commerce hub, or a complex SaaS product, I engineer the foundation for success using modern stacks (React, Node.js, Python).
 
-Feature Integration & Expansion Injecting new life into existing platforms. Need a payment gateway, a user dashboard, or AI integration? I add advanced features to your current setup to make it stand out and perform better.
+🔹 Legacy System Modernization
 
-Technical Solutions & Debugging Providing high-level solutions for websites with critical issues. From fixing bugs to optimizing load speeds and security, I ensure your digital presence is flawless.
+Updating and upgrading old, outdated websites. I take slow, static, or broken sites and transform them into fast, mobile-responsive, and modern platforms that meet 2026 standards.
 
-Let's Work Together
+🔹 Feature Integration & Expansion
+
+Injecting new life into existing platforms. Need a payment gateway, a user dashboard, or AI integration? I add advanced features to your current setup to make it stand out and perform better.
+
+🔹 Technical Solutions & Debugging
+
+Providing high-level solutions for websites with critical issues. From fixing bugs to optimizing load speeds and security, I ensure your digital presence is flawless.
+
+🤝 Let's Work Together
 
 I am open to high-impact contracts, partnerships, and technical consultancy. If you are ready to upgrade your vision, let's talk.
 
 <div align="center">
+
+
+
+
+
 <a href="mailto:marvillyon@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3DD4AF37" />
 </a>
